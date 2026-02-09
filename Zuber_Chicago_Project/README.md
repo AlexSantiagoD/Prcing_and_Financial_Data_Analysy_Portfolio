@@ -1,0 +1,1 @@
+Este repositorio está crado con el objetivo de desarrollar una página web sencilla la cual crea un histoigrama a partir de una base de datos. Esto forma parte de un proyecto desarrollado por Tripleten para el curso de análisis de datos. 
