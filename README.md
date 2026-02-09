@@ -1,6 +1,8 @@
 # Data-Analysis-Portfolio
 Proyectos de análisis de datos y limpieza con Python y SQL.
-Análisis de Taxis NYC (2005)
+
+**Análisis de Taxis NYC (2005)**
+
 Descripción: Procesamiento y limpieza de 100k registros de viajes en Nueva York para identificar patrones de rentabilidad y errores de sistema.
 
 Desafíos superados:
